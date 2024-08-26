@@ -31,11 +31,15 @@ Make sure you have the following installed:
    ```
 
 2. **Install Dependencies:**
-   `npm install`
+   ```bash
+   npm install
+   ```
 3. **Set up environment variables::**
 
-Create a .env file with MONGO_URL,PORT in the root of the project with the following content:
+   Create a .env file with MONGO_URL,PORT in the root of the project with the following content:
 
 4. **Start the Server:**
 
-   `npm start`
+   ```bash
+   npm start
+   ```
